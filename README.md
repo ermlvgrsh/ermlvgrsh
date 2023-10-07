@@ -2,8 +2,8 @@
 ### My name is Ermolaev Grigoriy. I'm iOS developer. Basically I use UIKit. 
 
 ### 🧑🏻‍💻 My Stack 
-Language: Swift
-Layout: code-based(programmatic), Interface Builder(Storyboard)
+Language: Swift \n
+Layout: code-based(programmatic), Interface Builder(Storyboard) \n
 Data storage: UserDefaults, CoreData, KeyChainWrapper 
 Design patterns: MVC, MVP, MVVM
 Dependency manager: CocoaPods, SPM 
