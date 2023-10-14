@@ -1,6 +1,6 @@
 ### Hello there! Currently I'm looking for a job!
 ### My name is Ermolaev Grigoriy. I'm iOS developer. Basically I use UIKit. 
-----------------------------------
+- - - 
 ### 🧑🏻‍💻 My Stack 
 Language: Swift  
 
