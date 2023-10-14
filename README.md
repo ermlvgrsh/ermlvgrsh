@@ -40,7 +40,7 @@ My contact email: ermolaev.grisha@gmail.com
 
 My telegram: https://t.me/ermlvgrsh  
 
-
+My linkden: https://www.linkedin.com/in/grigoriy-ermolaev-a97ba9212/
 <!--
 **ermlvgrsh/ermlvgrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
