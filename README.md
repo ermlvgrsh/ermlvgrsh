@@ -1,4 +1,4 @@
-### Hello there! Currently I'm looking for a job!
+### Hello there! I'm currently looking for a job!
 ### My name is Ermolaev Grigoriy. I'm iOS developer. Basically I use UIKit. 
 - - - 
 ### 🧑🏻‍💻 My Stack 
