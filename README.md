@@ -1,6 +1,6 @@
 ### Hello there! I'm currently looking for a job!
 ### My name is Ermolaev Grigoriy. I'm iOS developer. Basically I use UIKit. 
-- - - 
+
 ## **🧑🏻‍💻 My Stack**
 Language: Swift  
 
@@ -23,7 +23,7 @@ Web Services:  REST APi, HTTP Requests
 Development principles: DRY, KISS, SOLID, YAGNI  
 
 - - -
-### 📲 My projects
+## **📲 My projects**
 
 MovieQuiz  -  Quiz based on top-250 films by rating IMDb  https://github.com/ermlvgrsh/MovieQuiz-ios  
 
@@ -34,7 +34,7 @@ Tracker -  Habit tracker https://github.com/ermlvgrsh/Tracker
 NFT Market Place - https://github.com/igor-ignatov/iOS-FakeNFT-StarterProject-Public  
 - - -
 
-### 📬 Contact info 
+## **📬 Contact info**
 
 My contact email: ermolaev.grisha@gmail.com  
 
