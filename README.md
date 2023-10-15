@@ -1,7 +1,7 @@
 ### Hello there! I'm currently looking for a job!
 ### My name is Ermolaev Grigoriy. I'm iOS developer. Basically I use UIKit. 
 - - - 
-### **🧑🏻‍💻 My Stack**
+## **🧑🏻‍💻 My Stack**
 Language: Swift  
 
 Layout: code-based(programmatic), Interface Builder(Storyboard)  
