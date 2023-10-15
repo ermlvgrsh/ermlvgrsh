@@ -22,7 +22,7 @@ Web Services:  REST APi, HTTP Requests
 
 Development principles: DRY, KISS, SOLID, YAGNI  
 
-- - -
+
 ## **📲 My projects**
 
 MovieQuiz  -  Quiz based on top-250 films by rating IMDb  https://github.com/ermlvgrsh/MovieQuiz-ios  
@@ -32,7 +32,7 @@ PhotoFlow - Feed flow based on Unsplash service  https://github.com/ermlvgrsh/Ph
 Tracker -  Habit tracker https://github.com/ermlvgrsh/Tracker  
 
 NFT Market Place - https://github.com/igor-ignatov/iOS-FakeNFT-StarterProject-Public  
-- - -
+
 
 ## **📬 Contact info**
 
