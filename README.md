@@ -8,11 +8,11 @@ Layout: code-based(programmatic), Interface Builder(Storyboard)
 
 Data storage: UserDefaults, CoreData, KeyChainWrapper  
 
-Design patterns: MVC, MVP, MVVM  
+Design patterns: MVC, MVP, MVVM, Coordinator
 
 Dependency manager: CocoaPods, SPM  
 
-Frameworks: UIKit, Foundation, WebKit, SafariService, ProgressHUD, Kingfisher  
+Frameworks: UIKit, Foundation, WebKit, SafariService, ProgressHUD, Kingfisher, AVFoundation
 
 Tests: Unit-tests, UI-tests, Snapshot  
 
